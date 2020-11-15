@@ -3,6 +3,7 @@
 
 int main()
 {
-    std::cout << "Hello World! iz c++ jer nemam c#\n";
+    std::cout << "\n\nHello World! iz c++ jer nemam c#\n";
+    std::cout << "\nNista pametno\n";
 }
 
